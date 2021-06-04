@@ -21,5 +21,11 @@ http://localhost/lab8_php_database/
    
   ![koneksi](https://user-images.githubusercontent.com/82009410/120587686-05e91d00-c460-11eb-8788-e1b2fce627b4.PNG)
   ![image](https://user-images.githubusercontent.com/82009410/120586890-90308180-c45e-11eb-9dd1-353df7c0a45d.png)
+  
+6. Membuat file index untuk menampilkan data (Read).
+
+    Buat file baru dengan nama index.php
+    
+![lab8_php_database ke-5](https://user-images.githubusercontent.com/82009410/120725996-519fd300-c501-11eb-9f18-f3a11213f5a6.PNG)
 
    
