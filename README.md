@@ -27,9 +27,8 @@ http://localhost/lab8_php_database/
     Buat file baru dengan nama index.php
     ![data barang1](https://user-images.githubusercontent.com/82009410/120735875-8ae23e00-c515-11eb-96b8-7d02e84ded3b.PNG)
     
-    ![data barang2](https://user-images.githubusercontent.com/82009410/120736052-c7159e80-c515-11eb-98fa-260918ba0223.PNG)
-    
-    hasilnya :
+    ![data barang2](https://user-images.githubusercontent.com/82009410/120736052-c7159e80-c515-11eb-98fa-260918ba0223.PNG) 
+   hasilnya :
     ![data barang3](https://user-images.githubusercontent.com/82009410/120736085-d4328d80-c515-11eb-832e-94b1bbc5193b.PNG)
 
 
