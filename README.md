@@ -51,6 +51,8 @@ Buat file baru dengan nama ubah.php
 
 ![tambah1](https://user-images.githubusercontent.com/82009410/120877054-92214e80-c5de-11eb-8689-8b255ea4a647.PNG)
 
+hasilnya:
+
 ![tambah2](https://user-images.githubusercontent.com/82009410/120877059-9d747a00-c5de-11eb-938a-ca0e2ed08843.PNG)
 
 10. Menghapus Data (Delete)
