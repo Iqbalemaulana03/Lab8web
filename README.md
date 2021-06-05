@@ -30,9 +30,31 @@ http://localhost/lab8_php_database/
     ![data barang2](https://user-images.githubusercontent.com/82009410/120736052-c7159e80-c515-11eb-98fa-260918ba0223.PNG) 
    hasilnya :
     ![data barang3](https://user-images.githubusercontent.com/82009410/120736085-d4328d80-c515-11eb-832e-94b1bbc5193b.PNG)
+7. Menambah Data (Create)
+
+Buat file baru dengan nama tambah.php
+![lab8_php_database ke-6](https://user-images.githubusercontent.com/82009410/120876877-96993780-c5dd-11eb-8b44-a223d0361cb1.PNG)
+
+8. Mengubah Data (Update)
+
+Buat file baru dengan nama ubah.php
+![ubah](https://user-images.githubusercontent.com/82009410/120876922-eed03980-c5dd-11eb-860a-0907087b6ba8.PNG)
 
 
+![ubah2](https://user-images.githubusercontent.com/82009410/120876954-10c9bc00-c5de-11eb-912e-ddea266efcdf.PNG)
 
+![ubah3](https://user-images.githubusercontent.com/82009410/120876964-1e7f4180-c5de-11eb-85d2-68d3814b3e10.PNG)
 
+9. Mengubah Data (Update)
 
-   
+Buat file baru dengan nama ubah.php
+
+![tambah1](https://user-images.githubusercontent.com/82009410/120877054-92214e80-c5de-11eb-8689-8b255ea4a647.PNG)
+
+![tambah2](https://user-images.githubusercontent.com/82009410/120877059-9d747a00-c5de-11eb-938a-ca0e2ed08843.PNG)
+
+10. Menghapus Data (Delete)
+
+Buat file baru dengan nama hapus.php
+![hapus](https://user-images.githubusercontent.com/82009410/120877259-bd586d80-c5df-11eb-89d5-0443fcb7199f.PNG)
+
